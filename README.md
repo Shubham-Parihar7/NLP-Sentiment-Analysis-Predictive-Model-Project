@@ -3,7 +3,7 @@
 ## Overview
 This project involves creating a sentiment analysis model using Natural Language Processing (NLP) techniques. The goal is to classify text reviews as positive or negative based on their sentiment.
 
-The project is centered around Natural Language Processing (NLP), where the primary goal is to perform sentiment analysis on text reviews. Sentiment analysis is a key application of NLP that helps classify textual data based on the expressed emotions or opinions—typically as positive, negative, or neutral.
+Sentiment analysis is a key application of NLP that helps classify textual data based on the expressed emotions or opinions—typically as positive, negative, or neutral.
 
 In this project, I implemented a binary classification approach to determine whether a review is positive or negative. The workflow involved several steps including text preprocessing, feature extraction through vectorization, and model training using multiple machine learning classifiers.
 
