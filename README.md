@@ -42,5 +42,7 @@ Sentiment analysis has widespread applications in various domains such as custom
 - This project helped deepen my understanding of NLP techniques like text vectorization and classification algorithms.
 - I automated the process of model creation, training, testing, and evaluation through custom Python functions.
 
-## Project Owner :-
-- **Shubham Parihar**
+## Owner
+
+- **Project Owner :-** Shubham Parihar
+- **Link Of Linkedin :-** https://www.linkedin.com/in/shubhamparihar7/
