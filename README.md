@@ -1,4 +1,4 @@
-# NLP-Sentiment Analysis Predictive Model Project
+# Sentiment Analysis Predictive Model Using NLP Project
 
 ## Overview
 This project involves creating a sentiment analysis model using Natural Language Processing (NLP) techniques. The goal is to classify text reviews as positive or negative based on their sentiment.
