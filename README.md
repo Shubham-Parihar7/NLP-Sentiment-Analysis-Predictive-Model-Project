@@ -38,10 +38,3 @@ This project involves creating a sentiment analysis model using Natural Language
 
 ## Project Owner :-
 - **Shubham Parihar**
-
----
-
-Feel free to modify any sections if needed! Let me know if you'd like further changes or additions.
----
-
-Feel free to modify any sections if needed! Let me know if you'd like further changes or additions.
